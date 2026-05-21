@@ -1,6 +1,6 @@
 name = "worker-name"
 compatibility_date = "2026-05-21"
-main = "index.html"
+main = "user.js"
 
 [observability]
 enabled = true
